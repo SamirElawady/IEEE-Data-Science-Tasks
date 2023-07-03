@@ -17,39 +17,26 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/samir-elawady-1719b3201/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:samirelawady2002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p align="center"> <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:samirelawady2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//+201140976549"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a>
+  
+<br>
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
 <p align="center">
 <!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <img title="C++" height="25" src="images/cpp.svg"></code>
+  <img title="C++" height="25" src="https://www.google.com/search?q=images%2Fcpp.svg&oq=images%2Fcpp.svg&aqs=chrome..69i57j69i58.1658793966j0j15&sourceid=chrome&ie=UTF-8#imgrc=-qKAMnvWeKV44M"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
 <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <img title="Python" height="25" src="images/python-original.svg">
   <img title="Numpy" height="25" src="images/numpy.svg">
   <img title="Pandas" height="25" src="images/pandas.svg">
-  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
-  <img title="Seaborn" height="25" src="images/seaborn.svg">
-  <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="JSON" height="25" src="images/json.svg">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="GitHub" height="25" src="images/github.svg">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 
-
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
